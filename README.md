@@ -1,4 +1,4 @@
-## Clone NETFLIX
+## Dio NETFLIX Clone
 
 Projeto de clone da interface inicial do NETFLIX.
 
